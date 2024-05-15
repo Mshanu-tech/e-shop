@@ -1,15 +1,11 @@
-.main_nav_container{
-background-image: url('https://www.shutterstock.com/image-photo/happy-young-asian-girl-carrying-260nw-1748077847.jpg');
-width: 100vw;
-    height: 100vh;
-    background-size: contain;
-}
-/* https://www.shutterstock.com/image-photo/happy-young-asian-girl-carrying-260nw-1748077847.jpg */
+/* .main_nav_container{
+    background: linear-gradient(to right, #ff7e5f, #feb47b, #86a8e7, #91eae4);
+} */
+
 .nav_container{
     display: flex;
     width: 100%;
     height: 15vh;
-    /* background: #f1f1f1; */
 }
 .logo_container{
     width: 30%;
