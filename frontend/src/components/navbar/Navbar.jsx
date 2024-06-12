@@ -27,6 +27,7 @@ function Navbar() {
                                     <input className="searchinput" type="text" placeholder="Search...." />
                                     <a href="#"><SearchIcon className="search-icon" style={{ paddingTop: "6px" }} /></a>
                                 </div>
+
                                 <ul className="navbar_user">
                                     <li><a href="#"><FavoriteOutlinedIcon className="search-icon" /></a></li>
                                     <li><a href="#"><WorkIcon className="search-icon" /></a></li>
