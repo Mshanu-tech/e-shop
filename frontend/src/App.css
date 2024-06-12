@@ -1,24 +1,3 @@
-/* body{
-    width:100%;
-    font-family: sans-serif;
-    padding: 0px;
-    margin: 0;
-} */
-
-body {
-    font-family: sans-serif;
-    position: relative;
-    background-color: #ff7e5f; /* fallback color */
-}
-
-body::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: #feb47b;
-    clip-path: polygon(0 0, 100% 0, 0 100%);
-    z-index: -1;
+body{
+    background-color: #E88D67;
 }

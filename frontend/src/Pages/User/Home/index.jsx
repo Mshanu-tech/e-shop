@@ -10,10 +10,9 @@ function Home() {
       <div className="container">
         <div className="row">
           <div className='home-leftside'>
-<h1>50% OFFER</h1>
+
           </div>
           <div className="home-rightside">
-            <img src="/Image/bn-removebg-preview.png" alt="" />
 
           </div>
         </div>
