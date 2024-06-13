@@ -1,9 +1,9 @@
 .row{
     display: flex;
 }
-.home-leftside{
-    width: 100%;  
-}
-.home-rightside{
-    width: 70%;
+.dressCategory{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+
 }
