@@ -119,7 +119,7 @@ body {
     justify-content: center;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 850px) {
     .logo_container a {
         font-size: 20px;
     }
