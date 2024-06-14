@@ -1,5 +1,6 @@
 .row{
     display: flex;
+    flex-direction: column;
 }
 .dressCategory{
     width: 80%;
@@ -10,4 +11,8 @@
     .dressCategory{
         display: none;
     }
+}
+.slideShow{
+    display: flex;
+    justify-content: center;
 }

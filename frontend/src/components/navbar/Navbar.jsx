@@ -69,23 +69,23 @@ function Navbar() {
                                     </ul>
                                 </div>
 
-                                <div className='dressCategory' style={{ display: dress ? 'flex' : 'none'}}>
+                                {/* <div className='dressCategory' style={{ display: dress ? 'flex' : 'none'}}>
                                     <div style={{ cursor: "pointer" }}>
                                         <img style={{ width: "50px", height: "50px", borderRadius: "50%", background: "white" }} src="https://www.shutterstock.com/image-vector/sport-tshirt-icon-training-sign-260nw-1267243321.jpg" alt="" />
-                                        {/* <p style={{ fontWeight: "bold", fontSize: "13px", textAlign: "center" }}>T-Shirt</p> */}
+                                        <p style={{ fontWeight: "bold", fontSize: "13px", textAlign: "center" }}>T-Shirt</p>
                                     </div>
                                     <div style={{ cursor: "pointer" }}>
                                         <img style={{ width: "50px", height: "50px", borderRadius: "50%", background: "white" }} src="https://cdn4.vectorstock.com/i/1000x1000/30/48/shirt-icon-vector-22623048.jpg" alt="" />
-                                        {/* <p style={{ fontWeight: "bold", fontSize: "13px", textAlign: "center" }}>Shirt</p> */}
+                                        <p style={{ fontWeight: "bold", fontSize: "13px", textAlign: "center" }}>Shirt</p>
                                     </div>
                                     <div style={{ cursor: "pointer" }}>
                                         <img style={{ width: "50px", height: "50px", borderRadius: "50%", background: "white" }} src="https://static.vecteezy.com/system/resources/previews/010/347/283/non_2x/pants-boy-garment-line-icon-illustration-vector.jpg" alt="" />
-                                        {/* <p style={{ fontWeight: "bold", fontSize: "13px", textAlign: "center" }}>Pant</p> */}
+                                        <p style={{ fontWeight: "bold", fontSize: "13px", textAlign: "center" }}>Pant</p>
                                     </div>
                                     <div style={{ cursor: "pointer" }}>
                                         <img style={{ width: "50px", height: "50px", borderRadius: "50%", background: "white" }} src="https://cdn-icons-png.flaticon.com/512/4795/4795378.png" alt="" />
-                                        {/* <p style={{ fontWeight: "bold", fontSize: "13px", textAlign: "center" }}>Watch</p> */}
-                                    </div>
+                                        <p style={{ fontWeight: "bold", fontSize: "13px", textAlign: "center" }}>Watch</p>
+                                    </div> */}
                                     {/* <div style={{ cursor: "pointer" }}>
                                         <img style={{ width: "50px", height: "50px", borderRadius: "50%", background: "white" }} src="/Image/shoe.png" alt="" />
                                         <p style={{ fontWeight: "bold", fontSize: "13px", textAlign: "center" }}>Shoe</p>
@@ -106,7 +106,7 @@ function Navbar() {
                                         <img style={{ width: "50px", height: "50px", borderRadius: "50%" }} src="/Image/innerwear.webp" alt="" />
                                         <p style={{ fontWeight: "bold", fontSize: "13px", textAlign: "center" }}>Innerwear</p>
                                     </div> */}
-                                </div>
+                                {/* </div> */}
 
                             </nav>
                         </div>

@@ -1,6 +1,8 @@
 import React from 'react'
 import './style.css'
+import { Container } from '@mui/material';
 import Navbar from '../../../components/navbar/Navbar'
+import SlideShow from '../../../components/carsoul'
 
 function Home() {
   return (
@@ -49,7 +51,12 @@ function Home() {
                 </div>
               </div>
             </div>
-          </div>
+            <div className='slideShow'>
+              <div style={{width:"50%"}}>
+            <SlideShow/>
+            </div>
+            </div>
+            </div>
         </div>
       </div>
     </>
