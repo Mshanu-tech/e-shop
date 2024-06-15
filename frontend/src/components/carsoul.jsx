@@ -17,7 +17,7 @@ export default function DotsMobileStepper() {
 
   return (
     <>
-    h1
+    
     </>
   );
 }
