@@ -18,6 +18,7 @@ export default function DotsMobileStepper() {
   return (
     <>
     <h1>heloo</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis praesentium explicabo neque nisi. Reprehenderit nostrum quos quam ad sed, sit fugit commodi minus, laborum, harum dolorem sapiente doloribus libero recusandae.</p>
     </>
   );
 }
