@@ -18,7 +18,6 @@ export default function DotsMobileStepper() {
   return (
     <>
     <h1>heloo</h1>
-    <p></p>
     </>
   );
 }
